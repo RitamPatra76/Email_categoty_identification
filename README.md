@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a simple **Email Intent Classifier** that predicts the category of an email based on its content. It is built using **Python, scikit-learn, and Streamlit**. The model is trained on a custom dataset and classifies emails into predefined categories such as **Meeting Request, Follow-up, Complaint, Job Offer, and Spam**.
+This project is a simple **Email category Identification** that predicts the category of an email based on its content. It is built using **Python, scikit-learn, and Streamlit**. The model is trained on a custom dataset and classifies emails into predefined categories such as **Meeting Request, Follow-up, Complaint, Job Offer, and Spam**.
 
 ## Features
 
@@ -30,8 +30,8 @@ Since email texts might contain commas, they are enclosed in **double quotes** t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/email-intent-classifier.git
-   cd email-intent-classifier
+   git clone https://github.com/RitamPatra76/Email_categoty_identification.git
+   cd Email_category_identification
    ```
 2. Install dependencies:
    ```bash
