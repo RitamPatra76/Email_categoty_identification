@@ -6,7 +6,7 @@ with open("email_classifier.pkl", "rb") as f:
     model = pickle.load(f)
 
 # Building the UI using streamlit
-st.title("Email Intent Classifier")
+st.title("Email Category Identifier")
 
 email_text = st.text_area("Enter email content:")
 
