@@ -1,0 +1,6 @@
+email_text,category
+"""Can we schedule a meeting for tomorrow?""",Meeting Request
+"""Just following up on my last email.""",Follow-up
+"""I have a complaint about your service.""",Complaint
+"""We are offering you a job interview.""",Job Offer
+"""Win a free iPhone! Click here now!""",Spam
